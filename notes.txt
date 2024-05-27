@@ -1,0 +1,92 @@
+// 1
+npm install react-router-dom in clients folder
+
+// 8
+npm install axios in clients folder
+
+// 9
+npm install cors in api folder
+
+// 11
+"proxy": "http://localhost:5000/api/" in package.json in clients folder
+
+// 12
+create a folder called apiRequest inside src in clients folder
+
+// 13
+create a file called listRequest.js inside apiRequest folder
+
+// 23
+create a file called movieRequest.js inside apiRequest folder
+
+// 36
+download admin folder from github
+
+// 37
+npm install react react-dom react-router-dom react-scripts recharts axios in admin folder
+
+// 38
+create a folder called apiRequest inside src in admin folder
+
+// 39
+create userRequest.js inside api folder
+
+// 40
+"proxy": "http://localhost:5000/api/" in package.json in admin folder
+
+// 50
+create a folder called context inside src folder
+
+// 51
+create authContext, movieContext and listContext folders inside context folder
+
+// 52
+create AuthContext.js, AuthActions.js, AuthReducer.js and apiCalls.js inside authContext folder
+
+// 58
+create a folder called login inside pages folder
+
+// 59
+create Login.jsx and login.css inside login folder
+
+// 71
+create MovieContext.js, MovieActions.js, MovieReducer.js and apiCalls.js inside authContext folder
+
+// 72
+change productList to movieList
+
+// 79
+change product to movie
+
+// 84
+change newProduct to newMovie
+
+// 89
+create a file called firebase.js inside src folder
+
+// 90 
+npm install firebase in admin folder
+
+// 97
+create a folder called listList inside pages folder
+
+// 98
+create listList.css and ListList.jsx inside listList folder
+
+// 99
+create ListContext.js, ListActions.js, ListReducer.js and apiCalls.js inside ListContext folder
+
+// 109
+create a folder called list inside pages folder
+
+// 110
+create List.jsx and list.css inside list folder
+
+// 113
+create a folder called newList inside pages folder
+
+// 114
+create NewList.jsx and newList.css inside list folder
+
+// 117 in clients side
+copy and paste authContext from admin side
